@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=Jan2014-Respawn-Entities/libs\/artemis.jar&lt;com.artemis.systems(VoidEntitySystem.class[VoidEntitySystem" modifiers="1057" timestamp="1390084480000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems.Tiles{TileSystem.java[TileSystem" modifiers="1" timestamp="1391211355000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems.Tiles{ITileSystem.java[ITileSystem" modifiers="513" timestamp="1391024883000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems.Input{IInputMapper.java[IInputMapper" modifiers="513" timestamp="1390944502000"/>
+<typeInfo handle="=Tests/\/usr\/lib\/jvm\/java-7-openjdk-amd64\/jre\/lib\/rt.jar&lt;com.sun.xml.internal.bind.unmarshaller(InfosetScanner.class[InfosetScanner" modifiers="1537" timestamp="1381515205000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems.Scripts{IScriptHandler.java[IScriptHandler" modifiers="513" timestamp="1391030249000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems.Levels{LevelWonSystem.java[LevelWonSystem" modifiers="1" timestamp="1391034433000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems.Levels{ILevelSwitcher.java[ILevelSwitcher" modifiers="513" timestamp="1391033420000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems.Scripts{IScript.java[IScript" modifiers="513" timestamp="1391029281000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems.Levels{ILevel.java[ILevel" modifiers="513" timestamp="1391033130000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems.AI{AISystem.java[AISystem" modifiers="1" timestamp="1391251321000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems{IEnabled.java[IEnabled" modifiers="513" timestamp="1391251345000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/libs\/artemis.jar&lt;com.artemis.systems(EntityProcessingSystem.class[EntityProcessingSystem" modifiers="1057" timestamp="1390084480000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/libs\/artemis.jar&lt;com.artemis(Component.class[Component" modifiers="1057" timestamp="1390084480000"/>
+<typeInfo handle="=Jan2014-Respawn-Entities/src&lt;com.me.Systems.UnitCollision{UnitCollisionSystem.java[UnitCollisionSystem" modifiers="1" timestamp="1391275254000"/>
+</typeInfoHistroy>

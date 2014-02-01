@@ -1,0 +1,75 @@
+
+textureAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WinLabel
+  rotate: false
+  xy: 1, 35
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+BloodySpikes
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Floor
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+LeftArrow
+  rotate: false
+  xy: 67, 35
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Player
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+RightArrow
+  rotate: false
+  xy: 101, 35
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Soldier
+  rotate: false
+  xy: 103, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Spikes
+  rotate: false
+  xy: 137, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+DownArrow
+  rotate: false
+  xy: 171, 19
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+UpArrow
+  rotate: false
+  xy: 189, 19
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
